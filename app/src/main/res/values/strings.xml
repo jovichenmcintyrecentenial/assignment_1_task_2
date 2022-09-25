@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">JoviChenMcintyre_MAPD711_Task2</string>
+    <string name="app_name">MAPD711_Task2</string>
+    <string name="show_student_info">Show Student Info</string>
+    <string name="name">Jovi Chen Mcintyre</string>
+    <string name="address">2250 Homelands Drive Toronto, ON</string>
+    <string name="profession">Developer</string>
+    <string name="dream_job">Dream Job</string>
+    <string name="favourite_food">Favourite Food</string>
+    <string name="name_label">Name</string>
+    <string name="address_label">Address</string>
+    <string name="profession_label">Profession</string>
+    <string name="dream_job_label">Dream Job</string>
+    <string name="favourite_food_label">Favourite Food</string>
+
 </resources>
